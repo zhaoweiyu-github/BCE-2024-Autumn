@@ -1,7 +1,2 @@
-Sep
+Oct
 ===
-
-.. autosummary::
-   :toctree: generated
-
-   lumache

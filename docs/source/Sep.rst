@@ -1,8 +1,8 @@
 Sep
 ===
 
-Week 1
-------
+Week 1~2
+--------
 
 In the first week, please read the paper titled `Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning <https://doi.org/10.1038/nbt.3300>`_, which introduces a deep learning method for predicting transcription factor binding.
 
@@ -14,7 +14,7 @@ Additionally, familiarize yourself with the basic concepts in machine learning b
 
 3. Implementation of evaluation metrics to measure model performance in classification tasks, detailed in `section 3.4.2 <https://scikit-learn.org/stable/modules/model_evaluation.html>`_ of the ``scikit-learn`` user guide.
 
-After studying these materials, attempt to build machine learning models for a classification task using scikit-learn with the provided dataset of the Python package. Experiment with multiple machine learning models and compare their performance using the evaluation metrics.
+After studying these materials, attempt to build machine learning models for a classification task using scikit-learn with the dataset provided by the package. Experiment with multiple machine learning models and compare their performance using the evaluation metrics.
 
 Optional (not required):
 
