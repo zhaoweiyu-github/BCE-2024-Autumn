@@ -1,16 +1,16 @@
-《生物信息综合实验》-2024秋季-Zhang Lab
-===================================
+Bioinformatics Comprehensive Experiments
+========================================
 
 .. note::
 
-   指导教师：张勇、王琪
+   Advisor: Prof. Yong Zhang and Prof. Qi Wang
 
-实验安排
+Schedule
 --------
 
 .. toctree::
 
-   九月
-   十月
-   十一月
-   十二月
+   Sep
+   Oct
+   Nov
+   Dec
