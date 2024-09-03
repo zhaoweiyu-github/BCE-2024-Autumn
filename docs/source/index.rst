@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+《生物信息综合实验》-2024秋季-Zhang Lab
 ===================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   指导教师：张勇、王琪
 
-Contents
+实验安排
 --------
 
 .. toctree::
 
-   usage
-   api
+   九月
+   十月
+   十一月
+   十二月
