@@ -6,7 +6,7 @@ Week 3~4
 
 During Weeks 3 and 4, your assignment is to develop a machine learning model to predict CTCF binding events from DNA sequences.
 
-The format of the `train dataset <dataset/K562_CTCF_train.csv>`_ and `test dataset <dataset/K562_CTCF_test.csv>`_ is as follows:
+The format of the `train dataset <https://github.com/zhaoweiyu-github/BCE-2024-Autumn/tree/main/docs/source/dataset/K562_CTCF_train.csv>`_ and `test dataset <https://github.com/zhaoweiyu-github/BCE-2024-Autumn/tree/main/docs/source/dataset/K562_CTCF_test.csv>`_ is as follows:
 
 .. code-block:: bash
 
