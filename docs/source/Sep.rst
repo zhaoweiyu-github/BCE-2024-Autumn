@@ -42,7 +42,7 @@ Optional (not required):
 
 .. note::
 
-This task is due on September 30. Please send your Python code or Jupyter notebook via e-mail at at zhaoweiyu@tongji.edu.cn or share it through a GitHub repository.
+This task is due on September 30. Please send your Python code or Jupyter notebook via e-mail at zhaoweiyu@tongji.edu.cn or share it through a GitHub repository.
    
 
 Week 1~2
