@@ -34,8 +34,7 @@ This deep learning task aims to predict the label (``y``), where ``True`` indica
 3. Model Training and Evaluation
    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   After preparing and testing your code, run it on GPU devices. You can access the school's HPC with GPUs by contacting Miss Yan Liu at yanliu@tongji.edu.cn. Train the fine-tuned model and evaluate its performance on the test dataset.
-
+   After preparing and testing your code, run it on GPU devices. You can access the school's HPC with GPUs by contacting Miss Yan Liu at yanliu@tongji.edu.cn. Train the fine-tuned model and evaluate its performance on the test dataset. 
    Note that the dataset is imbalanced, so carefully choose an appropriate loss function, such as focal loss, rather than a general cross-entropy loss, to improve training results.
 
 .. note::
