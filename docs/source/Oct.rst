@@ -39,4 +39,4 @@ This deep learning task aims to predict the label (``y``), where ``True`` indica
 
 .. note::
 
-   You can complete this task in two weeks and then proceed to the next task, although you may spend up to a month if needed. For any questions, feel free to contact me at zhaoweiyu@tongji.edu.cn.
+   You are expected to complete this task within two weeks (by November 1st) before proceeding to the next. However, if needed, you may extend the timeline to a month (by November 15th), feel free to contact me at zhaoweiyu@tongji.edu.cn.
