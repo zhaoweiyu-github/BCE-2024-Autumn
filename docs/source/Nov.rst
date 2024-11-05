@@ -4,7 +4,7 @@ Nov
 Weeks 9-12
 ----------
 
-During Weeks 9 to 12, your assignment is to fine-tune `ChromBERT <https://github.com/zhaoweiyu-github/ChromBERT>`_, a pre-trained deep language model developed by the Yong Zhang Lab, to predict genome-wide binding events for CTCF and EZH2.
+During Weeks 9 to 12, your assignment is to fine-tune `ChromBERT <https://github.com/TongjiZhanglab/ChromBERT>`_, a pre-trained deep language model developed by the Yong Zhang Lab, to predict genome-wide binding events for CTCF and EZH2.
 
 The format for the training and testing datasets:
 
@@ -33,7 +33,7 @@ This deep learning task aims to predict the label (``y``), where ``True`` indica
 
    ChromBERT is pre-trained on a large-scale human ChIP-seq/DNase-seq/ATAC-seq dataset, **Cistrome-Human-6K**, through self-supervised learning. It is designed to learn robust, context-aware interactions of transcription regulators, enabling it to adapt to various downstream tasks and provide insights into context-specific transcription regulatory networks.
 
-   You can explore the `code <https://github.com/zhaoweiyu-github/ChromBERT>`_ and review the `tutorial for fine-tuning ChromBERT from scratch <https://chrombert.readthedocs.io/en/latest/tutorial_finetuning_ChromBERT_from_scratch.html>`_ for instructions on installing and fine-tuning the model. Ensure you understand each step and thoroughly review the basic code.
+   You can explore the `code <https://github.com/TongjiZhanglab/ChromBERT>`_ and review the `tutorial for fine-tuning ChromBERT from scratch <https://chrombert.readthedocs.io/en/latest/tutorial_finetuning_ChromBERT_from_scratch.html>`_ for instructions on installing and fine-tuning the model. Ensure you understand each step and thoroughly review the basic code.
 
 2. Fine-tune the Model Using Pre-trained Checkpoints
    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
