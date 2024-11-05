@@ -26,7 +26,7 @@ The format of these datasets is as follows:
 
 The first three columns represent genomic coordinates (``chromosome``, ``start``, ``end``), and the fifth column provides the binding event label (``True`` or ``False``).
 
-This deep learning task aims to predict the label (``y``), where ``True`` indicates a binding event and ``False`` indicates non-binding, based on the input DNA sequence (``x``). Below are the steps to complete the task:
+This deep learning task aims to predict the label (``y``), where ``True`` indicates a binding event and ``False`` indicates non-binding, based on the input DNA sequence for DNABERT or binding status of cistromes for ChromBERT (``x``). Below are the steps to complete the task:
 
 1. Read the Code and Understand ChromBERT
    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
